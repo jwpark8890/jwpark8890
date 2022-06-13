@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jwpark8890, Postdoc from Sejong University, South Korea.
+- 👀 I’m interested in neural network application for predicting microbial tap water quality. 
+- 🌱 I’m currently learning Tensorflow 2.0 and binary classification.
+- 📫 You can contact me via jwpark@sejong.ac.kr or jija88@naver.com
+- Best Reagrds, Jiwon.
